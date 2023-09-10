@@ -10,7 +10,10 @@
 + LINK FOR THE DATASET IS PROVIDED HERE : https://www.kaggle.com/competitions/titanic/data
 + YOU CAN DOWNLOAD THE DATASET FROM KAGGLE AND IMPORT THE CSV FILES USING pd.read_csv()
 ## EDA
-+ FOR EDA ON TEST DATASET RUN IPYNB Titanic_dataset_EDA_TEST_DATA.ipynb
-+  FOR EDA ON TRAIN DATASET RUN IPYNB Titanic_dataset_EDA-Train.ipynb
++ FOR EDA ON TEST DATASET RUN :
++ [EDA ON TEST DATA] (Titanic_dataset_EDA_TEST_DATA.ipynb)
++  FOR EDA ON TRAIN DATASET RUN:
++  [EDA ON TRAIN DATASET] (Titanic_dataset_EDA-Train.ipynb)
 ## Modelling
-+  FOR EDA ON TRAIN DATASET RUN IPYNB Titanic_dataset_EDA-LOGIT Modelling.ipynb
++  FOR MODELLING ON CLEANED DATASET RUN:
++  [MODELLING ON CLEANED DATASET] (Titanic_dataset_EDA-LOGIT Modelling.ipynb)
