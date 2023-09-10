@@ -13,7 +13,7 @@
 + FOR EDA ON TEST DATASET RUN :
 - `[EDA ON TEST DATA](Titanic_dataset_EDA_TEST_DATA.ipynb)
 +  FOR EDA ON TRAIN DATASET RUN:
--  `[EDA ON TRAIN DATASET](Titanic_dataset_EDA-Train.ipynb)
+-  `[EDA ON TRAIN DATASET](https://github.com/imsumit8/Titanic-Survival-Prediction-with-Kaggle-Dataset-/blob/main/Titanic_dataset_EDA%20-%20Train.ipynb)
 ## Modelling
 +  FOR MODELLING ON CLEANED DATASET RUN:
--  `[MODELLING ON CLEANED DATASET](Titanic_dataset_EDA-LOGIT_Modelling.ipynb)
+-  `[MODELLING ON CLEANED DATASET](https://github.com/imsumit8/Titanic-Survival-Prediction-with-Kaggle-Dataset-/blob/main/Titanic_dataset_EDA%20-%20LOGIT%20Modelling.ipynb)
